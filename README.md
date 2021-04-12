@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diegomontet
-- 👀 I’m interested in economics and computer science
+- 👀 I’m really interested in economy, computer science and entrepreneurship
 - 🌱 I’m currently learning python and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
